@@ -1,29 +1,20 @@
-# JupyterLite Demo
+# Introduction
 
-[![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://jupyterlite.github.io/demo)
+Introduction to the [Patchy Python](https://www.youtube.com/@PatchyPython) online course.
 
-JupyterLite deployed as a static site to GitHub Pages, for demo purposes.
+View this repository as a [Jupyter Lite Notebook](https://fsmeraldi.github.io/pp-introduction/tree/Introduction.ipynb).
 
-## ✨ Try it in your browser ✨
+### The Patchy Python Course
 
-➡️ **https://jupyterlite.github.io/demo**
+1. **Introduction** - this repository
+2. [First Steps](https://github.com/fsmeraldi/pp-firststeps)
+3. [Collections](https://github.com/fsmeraldi/pp-collections)
+4. [Flow Control](https://github.com/fsmeraldi/pp-flowcontrol)
+5. [File Input/Output](https://github.com/fsmeraldi/pp-files)
+6. [Functions and Modules](https://github.com/fsmeraldi/pp-functions)
+7. [Object Oriented Programming](https://github.com/fsmeraldi/pp-objects)
+8. [Errors and Exceptions](https://github.com/fsmeraldi/pp-exceptions)
+9. [Regular Expressions](https://github.com/fsmeraldi/pp-regexp)
 
-![github-pages](https://user-images.githubusercontent.com/591645/120649478-18258400-c47d-11eb-80e5-185e52ff2702.gif)
 
-## Requirements
-
-JupyterLite is being tested against modern web browsers:
-
-- Firefox 90+
-- Chromium 89+
-
-## Deploy your JupyterLite website on GitHub Pages
-
-Check out the guide on the JupyterLite documentation: https://jupyterlite.readthedocs.io/en/latest/quickstart/deploy.html
-
-## Further Information and Updates
-
-For more info, keep an eye on the JupyterLite documentation:
-
-- How-to Guides: https://jupyterlite.readthedocs.io/en/latest/howto/index.html
-- Reference: https://jupyterlite.readthedocs.io/en/latest/reference/index.html
+(C)2014,2024 [Fabrizio Smeraldi](info@patchypython.com), all rights reserved.
