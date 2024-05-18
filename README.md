@@ -4,8 +4,7 @@ Introduction to the [Patchy Python](https://www.youtube.com/@PatchyPython) onlin
 
 ### View this repository in your browser
 
-Click here to open a Jupyter Lite notebook:
-https://fsmeraldi.github.io/pp-introduction/notebooks/?path=Introduction.ipynb
+Click on the badge to open: [![lite-badge](https://github.com/jupyterlite/jupyterlite/blob/main/docs/_static/badge-launch.svg)](https://fsmeraldi.github.io/pp-introduction/notebooks/?path=Introduction.ipynb)
 
 ### The Patchy Python course
 
