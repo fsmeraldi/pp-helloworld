@@ -2,11 +2,12 @@
 
 Introduction to the [Patchy Python](https://www.youtube.com/@PatchyPython) online course.
 
-### Run this repository in your browser
+### View this repository in your browser
 
-Click here: https://fsmeraldi.github.io/pp-introduction/tree/Introduction.ipynb
+Click here to open a Jupyter Lite notebook:
+https://fsmeraldi.github.io/pp-introduction/notebooks/?path=Introduction.ipynb
 
-### The Patchy Python Course
+### The Patchy Python course
 
 1. **Introduction** - this repository
 2. [First Steps](https://github.com/fsmeraldi/pp-firststeps)
