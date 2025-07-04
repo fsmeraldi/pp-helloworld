@@ -8,15 +8,16 @@ Click on the badge to open: [![lite-badge](https://github.com/jupyterlite/jupyte
 
 ### The Patchy Python course
 
-1. **Hello World** - this repository
-2. [First Steps](https://github.com/fsmeraldi/pp-firststeps)
-3. [Collections](https://github.com/fsmeraldi/pp-collections)
-4. [Flow Control](https://github.com/fsmeraldi/pp-flowcontrol)
-5. [File Input/Output](https://github.com/fsmeraldi/pp-files)
-6. [Functions and Modules](https://github.com/fsmeraldi/pp-functions)
-7. [Object Oriented Programming](https://github.com/fsmeraldi/pp-objects)
-8. [Errors and Exceptions](https://github.com/fsmeraldi/pp-exceptions)
-9. [Regular Expressions](https://github.com/fsmeraldi/pp-regexp)
+1.  **Hello World** - This repository
+2.  [First Steps](https://github.com/fsmeraldi/pp-firststeps)
+3.  [Collections](https://github.com/fsmeraldi/pp-collections)
+4.  [Branching](https://github.com/fsmeraldi/pp-branching)
+5.  [Loops](https://github.com/fsmeraldi/pp-loops)
+6.  [File Input/Output](https://github.com/fsmeraldi/pp-files)
+7.  [Functions and Modules](https://github.com/fsmeraldi/pp-functions)
+8.  [Object Oriented Programming](https://github.com/fsmeraldi/pp-objects)
+9.  [Errors and Exceptions](https://github.com/fsmeraldi/pp-exceptions)
+10. [Regular Expressions](https://github.com/fsmeraldi/pp-regexp)
 
 
 (C)2014,2024 [Fabrizio Smeraldi](info@patchypython.com), all rights reserved.
